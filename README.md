@@ -1,39 +1,104 @@
-# Free Imran Khan 2D - The Mission 🇵🇰
+<div align="center">
 
-![Unity](https://img.shields.io/badge/Unity-2022.3-000000?style=for-the-badge&logo=unity)
-![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20PC-00FF88?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
+# 🇵🇰 Free Imran Khan - 2D Game 🇵🇰
 
-### 🎮 Game Story
-A 2D side-scroller adventure where the player has to cross obstacles, avoid enemies and complete the mission.
+### 🔥 Break Adiala Jail · Qaidi No 804 Escape 🔥
 
-### ✨ Features
-- 🕹️ Smooth 2D Controls (Jump / Slide / Run)
-- 🚌 Pakistani Truck Art Obstacles (Bedford Bus)
-- 🎨 Authentic Truck Art Design - Karachi to Peshawar Theme
-- 🔊 Desi Sound Effects & Music
-- 📱 Mobile Optimized
+<a href="https://rehan786gamer.github.io/Free-Imran-Khan-2D/">
+  <img src="og-thumb.jpg" alt="Free Imran Khan 2D Game - Break Adiala Jail" width="100%">
+</a>
 
-### 🎮 How To Play
-| Key | Action |
-| :--- | :--- |
-| `SPACE / TAP` | Jump |
-| `DOWN ARROW / SWIPE DOWN` | Slide under Bus |
-| `Collect Flag` | +100 Points |
+<br>
 
-### 🚀 How To Run This Project
-1. Clone this repo: `git clone https://github.com/Rehan786Gamer/Free-Imran-Khan-2D.git`
-2. Open with Unity Hub (Unity 2022.3+)
-3. Press Play in Unity Editor
+## ▶️ [PLAY NOW - Click Here to Play](https://rehan786gamer.github.io/Free-Imran-Khan-2D/)
 
-### 📸 Screenshots
-(Add your game screenshots here)
-`![Gameplay](screenshot1.png)`
 
-### 🤝 Contribute
-Pull requests are welcome! If you want to add new levels or obstacles, feel free to fork.
 
-### 👨‍💻 Developer
-**ReHan GaMer** - [GitHub](https://github.com/Rehan786Gamer)
+![Platform](https://img.shields.io/badge/Platform-Mobile%20%7C%20PC-brightgreen?style=for-the-badge)
 
-⭐ Star this repo if you like the game!
+
+
+
+![Type](https://img.shields.io/badge/Type-2D%20Endless%20Runner-orange?style=for-the-badge)
+
+
+
+
+![Language](https://img.shields.io/badge/Made%20with-HTML5-red?style=for-the-badge)
+
+
+
+
+![Price](https://img.shields.io/badge/Price-FREE-blue?style=for-the-badge)
+
+
+
+</div>
+
+---
+
+## 🎮 About the Game
+
+عمران خان کی رہائی اور انصاف کی فراہمی کی اس جدوجہد میں ہمارا ساتھ دیں
+Break Adiala Jail and race through the bazaar! Run, jump and slide through the streets, dodge the obstacles, collect coins and unlock **Power Mode** in this fun 2D endless runner game.
+
+> ✊ Unite with us for Imran Khan's freedom and justice.
+
+---
+
+## ✨ Features
+
+- 🏃 Fast and fun 2D endless runner gameplay
+- 🛺 Jump over rickshaws
+- 🚚 Slide under trucks
+- 🪙 Collect coins as you run
+- ⚡ Unlock Power Mode
+- 📱 Works on mobile and PC, right in the browser
+- 🆓 100% free, no download or install needed
+
+---
+
+## 🕹️ Controls
+
+| Action | Mobile | PC |
+|--------|--------|----|
+| ⬆️ Jump | Tap **JUMP** button | Space / Up Arrow |
+| ⬇️ Slide | Tap **SLIDE** button | Down Arrow |
+| ⬅️ Left | Tap **LEFT** button | Left Arrow |
+| ➡️ Right | Tap **RIGHT** button | Right Arrow |
+
+---
+
+## 📲 How to Play
+
+1. Open the link: **https://rehan786gamer.github.io/Free-Imran-Khan-2D/**
+2. Tap or click **Play**
+3. Jump over rickshaws, slide under trucks and collect coins
+4. Reach Power Mode and beat your high score!
+
+---
+
+## 🔗 Share the Game
+
+Share this link with your friends and family:
+
+**https://rehan786gamer.github.io/Free-Imran-Khan-2D/share.html**
+
+---
+
+## 👨‍💻 Developer
+
+**ReHan GaMer**
+Google Ads | Content Creator | AI Expert | Amazon PPC | 2D & 3D Game Developer
+
+🌐 GitHub: [Rehan786Gamer](https://github.com/Rehan786Gamer)
+
+---
+
+<div align="center">
+
+⭐ **If you like the game, give this repo a Star!** ⭐
+
+Made with ❤️ in Pakistan 🇵🇰
+
+</div>
