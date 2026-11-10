@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🇵🇰 Free Imran Khan - 2D Game 🇵🇰
+# 🎮 FREE IMRAN KHAN 2D - FINAL VERSION 🔥
+### "2D Complete. Now Moving to 3D."
 
 ### 🔥 Break Adiala Jail · Qaidi No 804 Escape 🔥
 
@@ -49,9 +50,12 @@ Break Adiala Jail and race through the bazaar! Run, jump and slide through the s
 ## ✨ Features
 
 - 🏃 Fast and fun 2D endless runner gameplay
-- 🛺 Jump over rickshaws
-- 🚚 Slide under trucks
+- 🛺 Jump over Rickshaws, Police Dala, Bike, Sabzi Wala, Cycle Wala & Baloon Wala
+- 🚚 Slide under Trucks, Buses, Army Truck, W-11 & Old Bedford
 - 🪙 Collect coins as you run
+- ☀️ Day Mode - NEW
+- 🌙 Night Mode - NEW
+- 🌧️ Rain Season - NEW
 - ⚡ Unlock Power Mode
 - 📱 Works on mobile and PC, right in the browser
 - 🆓 100% free, no download or install needed
@@ -73,8 +77,9 @@ Break Adiala Jail and race through the bazaar! Run, jump and slide through the s
 
 1. Open the link: **https://rehan786gamer.github.io/Free-Imran-Khan-2D/**
 2. Tap or click **Play**
-3. Jump over rickshaws, slide under trucks and collect coins
-4. Reach Power Mode and beat your high score!
+3. Jump over Rickshaws, Police Dala, Bike, Sabzi Wala, Cycle Wala & Baloon Wala
+4. Slide under Trucks, Buses, Army Truck, W-11, Old Bedford and collect coins
+5. Reach Power Mode and beat your high score!
 
 ---
 
@@ -100,5 +105,7 @@ Google Ads | Content Creator | AI Expert | Amazon PPC | 2D & 3D Game Developer
 ⭐ **If you like the game, give this repo a Star!** ⭐
 
 Made with ❤️ in Pakistan 🇵🇰
+
+**Next Project: FREE IMRAN KHAN 3D - Coming Soon 💥**
 
 </div>
